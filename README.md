@@ -2,6 +2,7 @@
 Simple Application written in C# .NET 4.0 for Windows to display current RAM usage and warn when it goes over 90%.
 
 ![Image of ram-warning-tool](https://raw.githubusercontent.com/zQQp/ram-warning-tool/master/screenshot.PNG)
+
 Application screenshot
 
 ## Download
