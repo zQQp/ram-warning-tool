@@ -1,0 +1,8 @@
+c:\users\deox\documents\visual studio 2015\Projects\RamWarningTool\bin\Release\RamWarningTool.exe.config
+c:\users\deox\documents\visual studio 2015\Projects\RamWarningTool\bin\Release\RamWarningTool.exe
+c:\users\deox\documents\visual studio 2015\Projects\RamWarningTool\bin\Release\RamWarningTool.pdb
+c:\users\deox\documents\visual studio 2015\Projects\RamWarningTool\obj\Release\RamWarningTool.Form1.resources
+c:\users\deox\documents\visual studio 2015\Projects\RamWarningTool\obj\Release\RamWarningTool.Properties.Resources.resources
+c:\users\deox\documents\visual studio 2015\Projects\RamWarningTool\obj\Release\RamWarningTool.csproj.GenerateResource.Cache
+c:\users\deox\documents\visual studio 2015\Projects\RamWarningTool\obj\Release\RamWarningTool.exe
+c:\users\deox\documents\visual studio 2015\Projects\RamWarningTool\obj\Release\RamWarningTool.pdb
