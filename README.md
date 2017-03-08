@@ -19,9 +19,10 @@ I personally dont like applications that throw me out of my current application 
 
 *"Warning, your RAM has reached over 90% usage!"*
 
-## Examples where I use this tool
-* eclipse
-* PHP Storm
+## Usage Examples
+This tool can be used in the following scenarios:
+* eclipse (heavy project with many files)
+* PHP Storm (heavy project with many files)
 * Skyrim modded
 * Fallout modded
 
